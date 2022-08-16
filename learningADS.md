@@ -28,7 +28,9 @@
 	
 	Caso não deu certo, apague tudo e comece denovo do zero.
  	
-	Ultimo exercicio resolvido: 1001	
+	Ultimo exercicio resolvido: 1001
+	
+	Use -lm no final do comando de compilar programa, sempre que estiver usando alguma biblioteca pois acontece um error de compatibilidade do compilador GCC.
 
 2. estruturas de dados:
 	2.1 - Arrays ou matrizes
